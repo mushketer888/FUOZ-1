@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "fuoz", "fuoz\fuoz.avrgccproj", "{E5ED03C1-5B19-4BAD-8291-FE8FC8D69B70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5ED03C1-5B19-4BAD-8291-FE8FC8D69B70}.Debug|AVR.ActiveCfg = Debug|AVR
+		{E5ED03C1-5B19-4BAD-8291-FE8FC8D69B70}.Debug|AVR.Build.0 = Debug|AVR
+		{E5ED03C1-5B19-4BAD-8291-FE8FC8D69B70}.Release|AVR.ActiveCfg = Release|AVR
+		{E5ED03C1-5B19-4BAD-8291-FE8FC8D69B70}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
